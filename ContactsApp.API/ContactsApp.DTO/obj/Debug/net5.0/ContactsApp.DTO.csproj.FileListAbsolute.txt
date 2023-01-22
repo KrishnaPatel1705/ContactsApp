@@ -1,0 +1,24 @@
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ContactsApp.DTO.deps.json
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ContactsApp.DTO.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ref\ContactsApp.DTO.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ContactsApp.DTO.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.AssemblyInfoInputs.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.AssemblyInfo.cs
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.csproj.CoreCompileInputs.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ref\ContactsApp.DTO.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.csproj.AssemblyReference.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ContactsApp.DTO.deps.json
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ContactsApp.DTO.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ref\ContactsApp.DTO.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\bin\Debug\net5.0\ContactsApp.DTO.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.csproj.AssemblyReference.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.AssemblyInfoInputs.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.AssemblyInfo.cs
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.csproj.CoreCompileInputs.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ref\ContactsApp.DTO.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.DTO\obj\Debug\net5.0\ContactsApp.DTO.pdb

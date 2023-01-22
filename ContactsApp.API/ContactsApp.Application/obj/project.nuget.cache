@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUgvxhRpqL1sE2zgckAu5TKgf9y1CG2qhGzlyal0cEnpOGDDMPAlKmskKQihKYfdY1nZBwxS8tFLvLqgfsgrlA==",
+  "success": true,
+  "projectFilePath": "D:\\Krishna Interview\\WeDo Digital\\ContactsApp\\ContactsApp.API\\ContactsApp.API\\ContactsApp.Application\\ContactsApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krish\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

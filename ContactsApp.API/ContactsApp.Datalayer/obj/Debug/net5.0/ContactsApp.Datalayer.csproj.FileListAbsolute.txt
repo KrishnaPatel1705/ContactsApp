@@ -1,0 +1,38 @@
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Datalayer.deps.json
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Datalayer.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ref\ContactsApp.Datalayer.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Datalayer.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Application.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.DTO.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Interface.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Application.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Interface.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.DTO.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.csproj.AssemblyReference.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.AssemblyInfoInputs.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.AssemblyInfo.cs
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.csproj.CoreCompileInputs.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.csproj.CopyComplete
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ref\ContactsApp.Datalayer.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Datalayer.deps.json
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Datalayer.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ref\ContactsApp.Datalayer.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Datalayer.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Application.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.DTO.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Interface.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Application.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.Interface.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\bin\Debug\net5.0\ContactsApp.DTO.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.csproj.AssemblyReference.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.AssemblyInfoInputs.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.AssemblyInfo.cs
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.csproj.CoreCompileInputs.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.csproj.CopyComplete
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ref\ContactsApp.Datalayer.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Datalayer\obj\Debug\net5.0\ContactsApp.Datalayer.pdb

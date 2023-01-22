@@ -1,0 +1,30 @@
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.Interface.deps.json
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.Interface.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ref\ContactsApp.Interface.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.Interface.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.DTO.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.DTO.pdb
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.csproj.AssemblyReference.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.AssemblyInfoInputs.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.AssemblyInfo.cs
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.csproj.CoreCompileInputs.cache
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.csproj.CopyComplete
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ref\ContactsApp.Interface.dll
+F:\Krishna\Projects\ContactsApp\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.Interface.deps.json
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.Interface.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ref\ContactsApp.Interface.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.Interface.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.DTO.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\bin\Debug\net5.0\ContactsApp.DTO.pdb
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.csproj.AssemblyReference.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.AssemblyInfoInputs.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.AssemblyInfo.cs
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.csproj.CoreCompileInputs.cache
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.csproj.CopyComplete
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ref\ContactsApp.Interface.dll
+D:\Krishna Interview\WeDo Digital\ContactsApp\ContactsApp.API\ContactsApp.API\ContactsApp.Interface\obj\Debug\net5.0\ContactsApp.Interface.pdb
